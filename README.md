@@ -4,7 +4,7 @@
 
 This is the PyTorch implementation for **ADGA** proposed in the paper **Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation**.
 
-> Gang-Feng Ma, Xu-Hua Yang, Liang-Yu Gao, Ling-Hang Lian. 2024. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation.
+> Gang-Feng Ma, Xu-Hua Yang, Liang-Yu Gao, Ling-Hang Lian. 2024.
 
 ![img_1.png](img_1.png)
 
