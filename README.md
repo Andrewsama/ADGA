@@ -1,6 +1,6 @@
  # Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendationn
 
-<font color='red'>The implementation code will be released after the acceptance of the paper.</font>
+<font color=red>The implementation code will be released after the acceptance of the paper.</font>
 
 This is the PyTorch implementation for **ADGA** proposed in the paper **Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation**.
 
