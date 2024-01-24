@@ -1,10 +1,10 @@
- # Adaptive Denoising Graph Contrastive Learning for Recommendation Based on Memory Graph Attention
+ # Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendationn
 
 <font color='red'>The implementation code will be released after the acceptance of the paper.</font>
 
-This is the PyTorch implementation for **AdaMGA** proposed in the paper **Adaptive Denoising Graph Contrastive Learning for Recommendation Based on Memory Graph Attention**.
+This is the PyTorch implementation for **ADGA** proposed in the paper **Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation**.
 
-> Gang-Feng Ma, Xu-Hua Yang. 2024. Adaptive Denoising Graph Contrastive Learning for Recommendation Based on Memory Graph Attention.
+> Gang-Feng Ma, Xu-Hua Yang. 2024. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation.
 
 ![img_1.png](img_1.png)
 
